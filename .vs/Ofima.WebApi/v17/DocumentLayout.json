@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WebApi\\WebApiPerson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|c:\\webapi\\webapiperson\\controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|solutionrelative:controllers\\ciudadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|c:\\webapi\\webapiperson\\models\\ciudadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|solutionrelative:models\\ciudadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|c:\\webapi\\webapiperson\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|solutionrelative:controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|c:\\webapi\\webapiperson\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|solutionrelative:models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|c:\\webapi\\webapiperson\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC085CB-1233-4916-8F01-D51A8D43990C}|Ofima.WebApi.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\WebApi\\WebApiPerson\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "Models\\Pais.cs",
+              "ToolTip": "C:\\WebApi\\WebApiPerson\\Models\\Pais.cs",
+              "RelativeToolTip": "Models\\Pais.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:40:05.64Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\WebApi\\WebApiPerson\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaisController.cs",
+              "ToolTip": "C:\\WebApi\\WebApiPerson\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "Controllers\\PaisController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:39:48.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CiudadModel.cs",
+              "DocumentMoniker": "C:\\WebApi\\WebApiPerson\\Models\\CiudadModel.cs",
+              "RelativeDocumentMoniker": "Models\\CiudadModel.cs",
+              "ToolTip": "C:\\WebApi\\WebApiPerson\\Models\\CiudadModel.cs",
+              "RelativeToolTip": "Models\\CiudadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:48:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CiudadController.cs",
+              "DocumentMoniker": "C:\\WebApi\\WebApiPerson\\Controllers\\CiudadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CiudadController.cs",
+              "ToolTip": "C:\\WebApi\\WebApiPerson\\Controllers\\CiudadController.cs",
+              "RelativeToolTip": "Controllers\\CiudadController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:47:54.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\WebApi\\WebApiPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\WebApi\\WebApiPerson\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:42:14.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

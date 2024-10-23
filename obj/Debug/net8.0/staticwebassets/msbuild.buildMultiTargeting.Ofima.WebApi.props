@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ofima.WebApi.props" />
+</Project>
